@@ -11,3 +11,5 @@ wheels/
 
 output/
 .venv/
+
+.env
